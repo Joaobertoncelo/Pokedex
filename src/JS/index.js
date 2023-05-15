@@ -23,9 +23,9 @@ alterTheme.addEventListener("click", function(){
     body.classList.toggle("dark");
 
     if(darkModeOn){
-        imageAlterTheme.setAttribute("src", "./Sprites/sun.png");
+        imageAlterTheme.setAttribute("src", "./src/Sprites/sun.png");
     }else{
-        imageAlterTheme.setAttribute("src", "./Sprites/moon.png");
+        imageAlterTheme.setAttribute("src", "./src/Sprites/moon.png");
     }
 });
 
