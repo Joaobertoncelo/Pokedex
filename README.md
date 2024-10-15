@@ -11,3 +11,7 @@ In addition to the basic search function, the Pokedex also allows you to filter 
 The Pokedex is constantly being updated with the latest Pokemon releases, so you can be sure that you are always up-to-date with the latest information.
 
 We hope you enjoy using the online Pokedex and catching 'em all!
+
+Link to access: 
+
+https://joaobertoncelo.github.io/pokedex/
